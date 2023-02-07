@@ -1,0 +1,26 @@
+#h1 {
+    font-size: 55px;
+    color: crimson;
+}
+
+#p1 {
+    color: blue;
+}
+
+.div1 {
+  border: 1px solid red; 
+  background-color: aquamarine; 
+}
+
+.span1 {
+    border: 1px solid green;
+}
+
+.imageheader {
+    height: 250px;
+    width: 250px;
+    border: 1px solid red;
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 50%;
+    text-align: center;
+}
